@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x5947BB275c521040051D82396192181b413227A3",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A blockchain-based middleware, acting as a bridge between cryptocurrency smart contracts, data feeds, APIs and traditional bank account payments."
+  },
+  "id": "fdcc2ab6-3766-425c-8b55-dab807ffc78e",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x5947BB275c521040051D82396192181b413227A3",
+    "website": "https://chain.link/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/chainlink/",
+    "coingecko": "https://coingecko.com/en/coins/chainlink/",
+    "telegram": "https://t.me/chainlinkofficial"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x5947BB275c521040051D82396192181b413227A3/logo.png"
+  },
+  "name": "Chainlink Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "LINK.e",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

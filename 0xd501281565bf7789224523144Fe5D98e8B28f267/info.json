@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped 1INCH Token. 1inch is a decentralized exchange aggregator that sources liquidity from various exchanges and is capable of splitting a single trade transaction across multiple DEXs."
+  },
+  "id": "8322421d-5334-4b71-a360-c61df32d0345",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xd501281565bf7789224523144Fe5D98e8B28f267",
+    "website": "https://1inch.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/basic-attention-token/",
+    "coingecko": "https://coingecko.com/en/coins/basic-attention-token/",
+    "twitter": "https://twitter.com/@attentiontoken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xd501281565bf7789224523144Fe5D98e8B28f267/logo.png"
+  },
+  "name": "1INCH Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "1INCH.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

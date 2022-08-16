@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Anyswap is a mpc decentralized cross-chain swap protocol."
+  },
+  "id": "1bd8f0d3-45f3-45d7-a9b6-fceadc52f288",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+    "website": "https://anyswap.exchange/",
+    "twitter": "https://twitter.com/AnyswapNetwork",
+    "telegram": "https://t.me/anyswap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/anyswap/",
+    "coingecko": "https://coingecko.com/en/coins/anyswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xB44a9B6905aF7c801311e8F4E76932ee959c663C/logo.png"
+  },
+  "name": "Anyswap",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ANY",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

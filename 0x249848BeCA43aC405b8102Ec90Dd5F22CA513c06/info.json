@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "CRV is a governance token on the Curve platform with time-weighted voting and value accrual mechanisms."
+  },
+  "id": "3d07ddae-e67e-4e45-9667-80f5d38a7a14",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+    "website": "https://www.curve.fi/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/curve-dao-token/",
+    "coingecko": "https://coingecko.com/en/coins/curve-dao-token/",
+    "twitter": "https://twitter.com/CurveFinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06/logo.png"
+  },
+  "name": "Curve DAO Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "CRV.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

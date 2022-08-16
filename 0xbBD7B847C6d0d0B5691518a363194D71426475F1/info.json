@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Virtual token that allows unclaimed rewards from EverRise Staking NFTs and its Vote Escrowed (ve) EverRise to display in wallet balances."
+  },
+  "id": "9c4ce8ff-05cf-464d-9720-1c675732d0b7",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xbBD7B847C6d0d0B5691518a363194D71426475F1",
+    "website": "https://www.everrise.com/",
+    "twitter": "https://twitter.com/everrise",
+    "telegram": "https://t.me/everriseofficial",
+    "youtube": "https://youtube.com/c/everriseofficial/",
+    "reddit": "https://reddit.com/r/EverRise",
+    "discord": "https://discord.com/invite/everrise",
+    "github": "https://github.com/everrise-ecosystem",
+    "facebook": "https://facebook.com/EverRiseToken"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xbBD7B847C6d0d0B5691518a363194D71426475F1/logo.png"
+  },
+  "name": "EverRise Rewards",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "claimRISE",
+  "tags": [
+    "defi",
+    "staking",
+    "nft",
+    "deflationary"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,26 @@
+{
+  "active": true,
+  "address": "0x60781C2586D68229fde47564546784ab3fACA982",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche"
+  },
+  "id": "6efb0b64-feb0-40ca-b2e6-47a7cf7b4eb1",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x60781C2586D68229fde47564546784ab3fACA982",
+    "research": "https://research.binance.com/en/projects/avalanche",
+    "website": "https://pangolin.exchange/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
+  },
+  "name": "Pangolin",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "PNG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

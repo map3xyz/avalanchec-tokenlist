@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "e926a54a-e0ca-4c86-9a95-7bf2f02638f2",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+    "website": "https://solana.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F/logo.png"
+  },
+  "name": "SOL (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "SOL",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

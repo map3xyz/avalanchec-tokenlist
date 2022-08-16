@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "1e316077-6d1a-4926-bed0-106ab2e793d2",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a",
+    "website": "https://www.paxos.com/busd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xA41a6c7E25DdD361343e8Cb8cFa579bbE5eEdb7a/logo.png"
+  },
+  "name": "Binance USD (Portal from BSC)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "BUSDbs",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

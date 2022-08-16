@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x8b82A291F83ca07Af22120ABa21632088fC92931",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "2eb3e113-475f-49c6-8ad1-f465804937b0",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x8b82A291F83ca07Af22120ABa21632088fC92931",
+    "website": "https://ethereum.org/en/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x8b82A291F83ca07Af22120ABa21632088fC92931/logo.png"
+  },
+  "name": "Ether (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ETH",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

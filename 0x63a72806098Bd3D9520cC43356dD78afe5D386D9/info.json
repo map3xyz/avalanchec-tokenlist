@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Aave Token. Aave is an Open Source and Non-Custodial protocol to earn interest on deposits & borrow assets. It also features access to highly innovative flash loans, which let developers borrow instantly and easily; no collateral needed."
+  },
+  "id": "4d910f5f-54c0-42e6-87d0-a7a5a55bae63",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+    "website": "https://aave.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/aave/",
+    "coingecko": "https://coingecko.com/en/coins/aave/",
+    "twitter": "https://twitter.com/AaveAave"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x63a72806098Bd3D9520cC43356dD78afe5D386D9/logo.png"
+  },
+  "name": "Aave Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "AAVE.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

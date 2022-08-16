@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xcf799767d366d789e8B446981C2D578E241fa25c",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "USDD is a fully decentralized over-collateralization stablecoin."
+  },
+  "id": "b30d28bd-d81c-4870-aa0a-55cd121378a7",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xcf799767d366d789e8B446981C2D578E241fa25c",
+    "website": "https://usdd.io/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/usdd/",
+    "coingecko": "https://coingecko.com/en/coins/usdd/",
+    "twitter": "https://twitter.com/usddio"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xcf799767d366d789e8B446981C2D578E241fa25c/logo.png"
+  },
+  "name": "Decentralized USD",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "USDD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

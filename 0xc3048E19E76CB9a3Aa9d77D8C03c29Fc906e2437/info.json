@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Compound."
+  },
+  "id": "52fdd18f-1ff3-4f43-b835-2472329c51bc",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+    "website": "https://compound.finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/compound/",
+    "coingecko": "https://coingecko.com/en/coins/compound-governance-token/",
+    "twitter": "https://twitter.com/compoundfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437/logo.png"
+  },
+  "name": "Compound",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "COMP.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

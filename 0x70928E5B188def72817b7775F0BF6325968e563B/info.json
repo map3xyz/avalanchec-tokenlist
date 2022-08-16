@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x70928E5B188def72817b7775F0BF6325968e563B",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "0546066d-fd1d-480f-886c-311da02ed1bd",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x70928E5B188def72817b7775F0BF6325968e563B",
+    "website": "https://terra.money"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x70928E5B188def72817b7775F0BF6325968e563B/logo.png"
+  },
+  "name": "LUNA (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "LUNA",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

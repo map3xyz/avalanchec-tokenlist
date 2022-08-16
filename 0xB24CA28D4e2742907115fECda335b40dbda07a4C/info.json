@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "4e29ccf5-9d1d-4a90-9c50-1c5ac7827218",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xB24CA28D4e2742907115fECda335b40dbda07a4C",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xB24CA28D4e2742907115fECda335b40dbda07a4C/logo.png"
+  },
+  "name": "USD Coin (Portal from Ethereum)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "USDCet",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

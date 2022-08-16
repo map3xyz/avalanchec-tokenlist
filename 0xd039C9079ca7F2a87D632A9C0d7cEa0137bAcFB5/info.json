@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Liquidity Generating, Frictionless Yield, and Self Sustaining Smart Contract"
+  },
+  "id": "bba387e7-99e9-4515-b413-01bb7b4b110f",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+    "research": "https://research.binance.com/en/projects/avalanche",
+    "website": "https://ape-x.io/",
+    "github": "https://github.com/ape-x-token",
+    "twitter": "https://twitter.com/apexthetoken",
+    "telegram": "https://t.me/ApeX_Token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/ape-x/",
+    "coingecko": "https://coingecko.com/en/coins/ape-x"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5/logo.png"
+  },
+  "name": "Ape-X",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "APE-X",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

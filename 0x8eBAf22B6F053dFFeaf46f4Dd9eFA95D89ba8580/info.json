@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Uniswap. Unwrapped Etherscan ERC20 Desc Below:UNI token served as governance token for Uniswap protocol with 1 billion UNI have been minted at genesis. 60% of the UNI genesis supply is allocated to Uniswap community members and remaining for team, investors and advisors."
+  },
+  "id": "9190d863-3e4f-4da5-a9d4-f46bceb3b4e5",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+    "website": "https://uniswap.org/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/uniswap/",
+    "coingecko": "https://coingecko.com/en/coins/uniswap/",
+    "twitter": "https://twitter.com/uniswap/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580/logo.png"
+  },
+  "name": "Uniswap",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "UNI.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

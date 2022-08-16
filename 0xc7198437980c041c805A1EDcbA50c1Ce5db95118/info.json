@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Tether gives you the joint benefits of open blockchain technology and traditional currency by converting your cash into a stable digital currency equivalent."
+  },
+  "id": "d7ce5332-0bad-4ae4-a3f5-1396d254677d",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+    "website": "https://tether.to/",
+    "twitter": "https://twitter.com/Tether_to",
+    "whitepaper": "https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/tether/",
+    "coingecko": "https://coingecko.com/en/coins/tether/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xc7198437980c041c805A1EDcbA50c1Ce5db95118/logo.png"
+  },
+  "name": "Tether USD",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "USDT.e",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

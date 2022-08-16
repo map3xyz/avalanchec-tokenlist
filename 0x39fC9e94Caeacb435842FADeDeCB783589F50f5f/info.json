@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application."
+  },
+  "id": "b807f1f4-d414-45bb-8d7e-3d88402447e7",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+    "website": "https://kyber.network/",
+    "twitter": "https://twitter.com/KyberNetwork",
+    "blog": "https://blog.kyber.network/",
+    "github": "https://github.com/KyberNetwork",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/kyber-network-crystal-v2/",
+    "coingecko": "https://coingecko.com/en/coins/kyber-network-crystal/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x39fC9e94Caeacb435842FADeDeCB783589F50f5f/logo.png"
+  },
+  "name": "Kyber Network Crystal v2",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "KNC",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

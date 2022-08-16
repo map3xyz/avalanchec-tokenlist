@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Binance USD. BUSD is a dollar-backed stablecoin issued and custodied by Paxos Trust Company, and regulated by the New York State Department of Financial Services. BUSD is available directly for sale 1:1 with USD on Paxos.com and will be listed for trading on Binance."
+  },
+  "id": "684d4790-b6ab-488a-a8e4-996f103f8fbc",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+    "website": "http://www.paxos.com/busd",
+    "twitter": "https://twitter.com/PaxosGlobal",
+    "github": "https://github.com/paxosglobal/busd-contract",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/binance-usd/",
+    "coingecko": "https://coingecko.com/en/coins/binance-usd/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98/logo.png"
+  },
+  "name": "Binance USD",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "BUSD.e",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

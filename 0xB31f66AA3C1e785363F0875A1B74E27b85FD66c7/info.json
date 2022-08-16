@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol."
+  },
+  "id": "68bbfc06-dcf6-486d-ba98-10f53485e709",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "website": "https://www.avax.network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/avalanche/",
+    "coingecko": "https://coingecko.com/en/coins/avalanche-2/",
+    "telegram": "https://t.me/avalancheavax"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png"
+  },
+  "name": "Wrapped AVAX",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "WAVAX",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x98a4d09036Cc5337810096b1D004109686E56Afc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "05e4cd9a-72db-4515-aea7-874e6a7d4b25",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x98a4d09036Cc5337810096b1D004109686E56Afc",
+    "website": "https://pancakeswap.finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x98a4d09036Cc5337810096b1D004109686E56Afc/logo.png"
+  },
+  "name": "PancakeSwap Token (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "CAKE",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

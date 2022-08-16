@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "A regulated, exchange-independent stablecoin backed 1-for-1 with US Dollars."
+  },
+  "id": "34f50bb4-d2ba-4a8f-a6e6-b4a7a952e340",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+    "website": "https://trueusd.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/trueusd/",
+    "coingecko": "https://coingecko.com/en/coins/true-usd/",
+    "twitter": "https://twitter.com/tusd_official"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB/logo.png"
+  },
+  "name": "TrueUSD",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "TUSD",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
