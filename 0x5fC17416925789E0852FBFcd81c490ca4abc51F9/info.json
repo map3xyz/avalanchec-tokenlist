@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "inSure DeFi is a Decentralized Insurance Ecosystem, trusted by thousands of community members to protect their crypto portfolios from scams, exchange closures, and drastic devaluations."
+  },
+  "id": "102041bb-ca53-48af-849b-25e5ccb4a284",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+    "website": "https://insuretoken.net/",
+    "twitter": "https://twitter.com/InsureToken",
+    "medium": "https://insureteam.medium.com/",
+    "telegram": "https://t.me/insuretoken",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/insure/",
+    "coingecko": "https://coingecko.com/en/coins/insure/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x5fC17416925789E0852FBFcd81c490ca4abc51F9/logo.png"
+  },
+  "name": "inSure",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "SURE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

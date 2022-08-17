@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Synthetix Network Token. The Synthetix Network Token is the native token of Synthetix, a synthetic asset (Synth) issuance protocol built on Ethereum. The SNX token is used as collateral to issue Synths."
+  },
+  "id": "ebc362d4-5c89-4cff-91a6-563521219677",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+    "website": "https://www.synthetix.io/",
+    "twitter": "https://twitter.com/synthetix_io",
+    "blog": "https://blog.synthetix.io/",
+    "github": "https://github.com/havven/havven",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/synthetix-network-token/",
+    "coingecko": "https://coingecko.com/en/coins/havven/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xBeC243C995409E6520D7C41E404da5dEba4b209B/logo.png"
+  },
+  "name": "Synthetix Network Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "SNX.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,33 @@
+{
+  "active": true,
+  "address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Multi-chain Derivatives Trading Protocol."
+  },
+  "id": "1a1868c5-8e2b-4978-8938-1200f2676396",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+    "website": "https://www.oddz.fi/",
+    "telegram": "https://t.me/oddz_fi_announcements",
+    "twitter": "https://twitter.com/oddz_finance",
+    "facebook": "https://facebook.com/Oddz.fi",
+    "whitepaper": "https://docsend.com/view/mefxr8h3ymzuhwqk",
+    "github": "https://github.com/oddz-finance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/oddz/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E/logo.png"
+  },
+  "name": "Oddz",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ODDZ",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

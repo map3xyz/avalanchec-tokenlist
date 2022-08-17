@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "One-stop Decentralized Trading on Avalanche."
+  },
+  "id": "7ed90594-949d-480c-8938-b49ba8dc6b6f",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+    "website": "https://traderjoexyz.com/",
+    "twitter": "https://twitter.com/traderjoe_xyz",
+    "telegram": "https://t.me/traderjoe_xyz",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/joe/",
+    "coingecko": "https://coingecko.com/en/coins/joe/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33/logo.png"
+  },
+  "name": "JoeBar",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "xJOE",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

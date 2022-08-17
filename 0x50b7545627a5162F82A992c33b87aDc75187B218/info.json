@@ -1,0 +1,29 @@
+{
+  "active": true,
+  "address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+  "color": null,
+  "decimals": 8,
+  "description": {
+    "en": "Wrapped Bitcoin is an ERC20 token backed 1:1 with Bitcoin. Completely transparent. 100% verifiable. Community led."
+  },
+  "id": "0515a37a-e433-4474-8337-c22bb895e560",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x50b7545627a5162F82A992c33b87aDc75187B218",
+    "website": "https://www.wbtc.network/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/wrapped-bitcoin/",
+    "coingecko": "https://coingecko.com/en/coins/wrapped-bitcoin/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
+  },
+  "name": "Wrapped BTC",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "WBTC.e",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

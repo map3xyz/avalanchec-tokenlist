@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "0378fad7-d522-4af9-b41d-6353650ee922",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x442F7f22b1EE2c842bEAFf52880d4573E9201158",
+    "website": "https://www.binance.com/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x442F7f22b1EE2c842bEAFf52880d4573E9201158/logo.png"
+  },
+  "name": "Binance Coin (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "BNB",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

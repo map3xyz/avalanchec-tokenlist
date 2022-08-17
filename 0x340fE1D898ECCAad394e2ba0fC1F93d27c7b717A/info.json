@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Orbs is a public blockchain built for the needs of apps with millions of users, from SLAs to adjustable fee models to on-demand capacity."
+  },
+  "id": "8185d8b6-2644-4f0a-a978-ac53f492aa30",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+    "website": "https://www.orbs.com/",
+    "twitter": "https://twitter.com/orbs_network",
+    "medium": "https://medium.com/orbs-network",
+    "telegram": "https://t.me/orbs_network",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/orbs/",
+    "coingecko": "https://coingecko.com/en/coins/orbs/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A/logo.png"
+  },
+  "name": "Orbs",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ORBS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

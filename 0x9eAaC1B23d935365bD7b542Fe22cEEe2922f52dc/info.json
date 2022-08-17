@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "DeFi made simple."
+  },
+  "id": "1f8f5a9a-1a09-4132-a403-12b863ea5b32",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+    "website": "https://yearn.finance/",
+    "twitter": "https://twitter.com/iearnfinance",
+    "medium": "https://medium.com/iearn",
+    "telegram": "https://t.me/iearnfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/yearn-finance/",
+    "coingecko": "https://coingecko.com/en/coins/yearn-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc/logo.png"
+  },
+  "name": "yearn.finance",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "YFI.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

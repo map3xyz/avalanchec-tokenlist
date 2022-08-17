@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "a7b20616-56eb-479e-8f78-40faff623f7a",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x12AF5C1a232675f62F405b5812A80e7a6F75D746",
+    "website": "https://oasisprotocol.org/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x12AF5C1a232675f62F405b5812A80e7a6F75D746/logo.png"
+  },
+  "name": "ROSE (Portal)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ROSE",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
