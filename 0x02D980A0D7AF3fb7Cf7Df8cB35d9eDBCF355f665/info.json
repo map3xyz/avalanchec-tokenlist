@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped SHIBA INU. SHIBA INU is a 100% decentralized community experiment with it claims that 1/2 the tokens have been sent to Vitalik and the other half were locked to a Uniswap pool and the keys burned."
+  },
+  "id": "a161fb37-5e79-4a77-ae43-71049b6e0d93",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+    "website": "https://shibatoken.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/shiba-inu/",
+    "coingecko": "https://coingecko.com/en/coins/shiba-inu/",
+    "telegram": "https://t.me/shibainuthedogecoinkiller"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665/logo.png"
+  },
+  "name": "SHIBA INU",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "SHIB.e",
+  "tags": [
+    "memes"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

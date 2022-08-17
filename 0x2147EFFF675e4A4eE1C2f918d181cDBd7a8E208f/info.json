@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Alpha Finance Lab is an ecosystem of DeFi products and focused on building an ecosystem of automated yield-maximizing Alpha products that interoperate to bring optimal alpha to users on a cross-chain level."
+  },
+  "id": "af63b901-a558-45d2-b461-d587f88a648e",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+    "website": "https://alphafinance.io/",
+    "twitter": "https://twitter.com/alphafinancelab",
+    "telegram": "https://t.me/AlphaFinanceLab",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/alpha-finance-lab/",
+    "coingecko": "https://coingecko.com/en/coins/alpha-finance/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f/logo.png"
+  },
+  "name": "AlphaToken",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ALPHA.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "c8caa525-23d6-4615-ac29-68f118d9e954",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb",
+    "website": "https://polygon.technology/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xf2f13f0B7008ab2FA4A2418F4ccC3684E49D20Eb/logo.png"
+  },
+  "name": "MATIC (Portal from Polygon)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "MATICpo",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

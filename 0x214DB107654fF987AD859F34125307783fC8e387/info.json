@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0x214DB107654fF987AD859F34125307783fC8e387",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "FXS is the value accrual and governance token of the entire Frax ecosystem. Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC."
+  },
+  "id": "771b12dd-0cb2-4536-a969-d7772b79bce6",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x214DB107654fF987AD859F34125307783fC8e387",
+    "website": "https://frax.finance/",
+    "twitter": "https://twitter.com/fraxfinance",
+    "telegram": "https://t.me/fraxfinance",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frax-share/",
+    "coingecko": "https://coingecko.com/en/coins/frax-share/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x214DB107654fF987AD859F34125307783fC8e387/logo.png"
+  },
+  "name": "Frax Share",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "FXS",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

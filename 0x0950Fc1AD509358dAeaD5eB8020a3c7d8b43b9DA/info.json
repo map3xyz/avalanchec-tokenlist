@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "02140828-acd9-4dd4-9efd-37f87727532f",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA",
+    "website": "https://www.circle.com/en/usdc"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x0950Fc1AD509358dAeaD5eB8020a3c7d8b43b9DA/logo.png"
+  },
+  "name": "USD Coin (Portal from Solana)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "USDCso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

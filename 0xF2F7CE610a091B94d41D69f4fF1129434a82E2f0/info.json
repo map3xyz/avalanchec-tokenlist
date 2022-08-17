@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
+  "color": null,
+  "decimals": 9,
+  "description": {
+    "en": "Galaxy Goggle DAO is a decentralized reserve currency protocol based on the GG token. Each GG token is backed by a basket of assets (e.g. MIM, AVAX) in the collateral pool, giving it an intrinsic value that it cannot fall below. GGDAO also introduces economic and game-theoretic dynamics into the market through staking and minting."
+  },
+  "id": "034bf7a4-97d0-48f0-aad3-78603612841d",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
+    "research": "https://research.binance.com/en/projects/avalanche",
+    "website": "https://app.galaxygoggle.money",
+    "github": "https://github.com/GalaxyGoggle",
+    "twitter": "https://twitter.com/galaxygoggledao",
+    "telegram": "https://t.me/ApeX_Token",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/galaxygoggle-dao/",
+    "coingecko": "https://coingecko.com/coins/galaxygoogle-dao"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0/logo.png"
+  },
+  "name": "Galaxy Goggle",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "GG",
+  "tags": [],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

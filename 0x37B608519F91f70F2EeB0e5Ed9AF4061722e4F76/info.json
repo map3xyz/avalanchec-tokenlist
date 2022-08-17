@@ -1,0 +1,32 @@
+{
+  "active": true,
+  "address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Be a DeFi Chef with Sushi - Swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform."
+  },
+  "id": "bf1bcdb6-a293-405e-a4ed-0f6f3d5fd910",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+    "website": "https://sushi.com/",
+    "twitter": "https://twitter.com/sushiswap",
+    "medium": "https://medium.com/sushiswap/",
+    "github": "https://github.com/sushiswap",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/sushiswap/",
+    "coingecko": "https://coingecko.com/en/coins/sushi/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76/logo.png"
+  },
+  "name": "SushiToken",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "SUSHI.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

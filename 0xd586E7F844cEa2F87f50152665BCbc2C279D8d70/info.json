@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Multi-Collateral Dai, brings a lot of new and exciting features, such as support for new CDP collateral types and Dai Savings Rate."
+  },
+  "id": "ee36b993-6df7-401f-b2e6-8b79601e6ca5",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+    "website": "https://makerdao.com/",
+    "twitter": "https://twitter.com/MakerDAO",
+    "whitepaper": "https://makerdao.com/whitepaper/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/multi-collateral-dai/",
+    "coingecko": "https://coingecko.com/en/coins/dai/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70/logo.png"
+  },
+  "name": "Dai Stablecoin",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "DAI.e",
+  "tags": [
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

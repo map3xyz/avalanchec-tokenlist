@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Avalanche Bridge Wrapped Maker. Maker is a Decentralized Autonomous Organization that creates and insures the dai stablecoin on the Ethereum blockchain."
+  },
+  "id": "5081b3af-b8d6-4780-beec-a3b1d0f9ad33",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+    "website": "https://makerdao.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/maker/",
+    "coingecko": "https://coingecko.com/en/coins/maker/",
+    "whitepaper": "https://makerdao.com/assets/documents/purple.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x88128fd4b259552A9A1D457f435a6527AAb72d42/logo.png"
+  },
+  "name": "Maker",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "MKR.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

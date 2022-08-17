@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "The Graph is an indexing protocol and global API for organizing blockchain data and making it easily accessible with GraphQL."
+  },
+  "id": "143d5e07-2466-4f9b-a581-754ab1d17eab",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+    "website": "https://thegraph.com/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/the-graph/",
+    "coingecko": "https://coingecko.com/en/coins/the-graph/",
+    "twitter": "https://twitter.com/graphprotocol"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9/logo.png"
+  },
+  "name": "Graph Token",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "GRT.e",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

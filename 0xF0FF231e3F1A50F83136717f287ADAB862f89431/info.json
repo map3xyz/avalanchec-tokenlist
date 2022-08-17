@@ -1,0 +1,27 @@
+{
+  "active": true,
+  "address": "0xF0FF231e3F1A50F83136717f287ADAB862f89431",
+  "color": null,
+  "decimals": 6,
+  "description": {
+    "en": "Cross Chain Portal Bridged Token"
+  },
+  "id": "02eec8dc-0e0d-42db-a547-d0350ae9e5c5",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xF0FF231e3F1A50F83136717f287ADAB862f89431",
+    "website": "https://tether.to/"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xF0FF231e3F1A50F83136717f287ADAB862f89431/logo.png"
+  },
+  "name": "Tether USD (Portal from Solana)",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "USDTso",
+  "tags": [
+    "wrapped"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

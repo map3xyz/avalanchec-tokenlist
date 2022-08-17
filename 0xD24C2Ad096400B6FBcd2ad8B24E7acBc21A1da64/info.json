@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Frax is a fractional-algorithmic stablecoin protocol. It aims to provide a highly scalable, decentralized, algorithmic money in place of fixed-supply assets like BTC. Additionally, FXS is the value accrual and governance token of the entire Frax ecosystem."
+  },
+  "id": "a35b815b-9d4d-4477-955c-491297626056",
+  "links": {
+    "explorer": "https://snowtrace.io/address/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+    "website": "https://frax.finance/",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/frax/",
+    "coingecko": "https://coingecko.com/en/coins/frax/",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64/logo.png"
+  },
+  "name": "Frax",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "FRAX",
+  "tags": [
+    "defi",
+    "stablecoin"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
