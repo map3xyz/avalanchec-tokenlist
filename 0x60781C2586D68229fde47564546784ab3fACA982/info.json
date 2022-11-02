@@ -7,6 +7,9 @@
     "en": "A community-driven decentralized exchange for Avalanche and Ethereum assets with fast settlement, low transaction fees, and a democratic distribution–powered by Avalanche"
   },
   "id": "c5097d34-22d8-4e0e-bc8e-3fd2cf168104",
+  "identifiers": {
+    "coinmarketcap": 8422
+  },
   "links": {
     "explorer": "https://snowtrace.io/address/0x60781C2586D68229fde47564546784ab3fACA982",
     "research": "https://research.binance.com/en/projects/avalanche",
