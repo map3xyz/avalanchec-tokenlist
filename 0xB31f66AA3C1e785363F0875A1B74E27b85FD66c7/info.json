@@ -7,6 +7,9 @@
     "en": "Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality, and has the most validators securing its activity of any proof-of-stake protocol."
   },
   "id": "0dc6d867-3a17-4425-b394-12322e03b0dc",
+  "identifiers": {
+    "coinmarketcap": 9462
+  },
   "links": {
     "explorer": "https://snowtrace.io/address/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
     "website": "https://www.avax.network/",
