@@ -1,0 +1,15 @@
+[
+  {
+    "verifications": [],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 1
+    },
+    "fromAddress": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+    "fromNetwork": "avalanchec",
+    "toAddress": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+    "toNetwork": "ethereum",
+    "type": "coinmarketcap"
+  }
+]
