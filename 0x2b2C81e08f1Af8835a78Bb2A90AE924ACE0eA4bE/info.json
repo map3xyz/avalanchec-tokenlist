@@ -1,0 +1,39 @@
+{
+  "active": true,
+  "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Staked AVAX, sAVAX, represents each user's ownership of their staked AVAX position in BENQI Liquid Staking. The yield-bearing asset grants users the ability to remain liquid and participate within other DeFi applications such as AAVE, Trader Joe, Platypus and BENQI."
+  },
+  "id": "6a5561fc-08ed-43bc-bb33-8bef93a66315",
+  "links": {
+    "explorer": "https://snowtrace.io/token/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "website": "https://benqi.fi",
+    "twitter": "https://twitter.com/BenqiFinance",
+    "telegram": "https://t.me/BENQIFinance",
+    "telegramNews": "https://t.me/BENQIFinance_Announcements",
+    "discord": "https://discord.com/invite/jyPAjZjwk6",
+    "coingecko": "https://coingecko.com/en/coins/benqi-liquid-staked-avax",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/benqi-liquid-staked-avax/markets",
+    "docs": "https://docs.benqi.fi",
+    "medium": "https://benqifinance.medium.com",
+    "github": "https://github.com/Benqi-fi",
+    "youtube": "https://youtube.com/c/BENQIfinance"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE/logo.png"
+  },
+  "name": "Staked AVAX",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "sAVAX",
+  "tags": [
+    "staking",
+    "defi",
+    "staking-native"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "ankrAVAX represents your staked AVAX and provides liquidity for your staked position. All staking rewards are built into the token price, and ankrAVAX grows daily in value, but never in number."
+  },
+  "id": "dc8e97d2-cd69-4174-bdba-fe88108f196f",
+  "links": {
+    "explorer": "https://snowtrace.io/token/0xc3344870d52688874b06d844e0c36cc39fc727f6",
+    "website": "https://ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "coingecko": "https://coingecko.com/en/coins/ankr-staked-avax",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "medium": "https://medium.com/ankr-network",
+    "docs": "https://ankr.com/docs/staking/overview",
+    "discord": "https://discord.com/invite/ankr",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0xc3344870d52688874b06d844E0C36cc39FC727F6/logo.png"
+  },
+  "name": "Ankr Staked AVAX",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ankrAVAX",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

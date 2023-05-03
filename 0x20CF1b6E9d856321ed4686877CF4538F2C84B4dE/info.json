@@ -1,0 +1,37 @@
+{
+  "active": true,
+  "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Ankr is building an infrastructure platform and marketplace for Web3-stack deployment."
+  },
+  "id": "b23870b4-15fa-443f-9632-927a76479068",
+  "links": {
+    "explorer": "https://snowtrace.io/token/0x20cf1b6e9d856321ed4686877cf4538f2c84b4de",
+    "website": "https://ankr.com",
+    "twitter": "https://twitter.com/ankr",
+    "github": "https://github.com/Ankr-network",
+    "telegram": "https://t.me/ankrnetwork",
+    "docs": "https://ankr.com/docs/staking/overview/",
+    "reddit": "https://reddit.com/r/Ankrofficial/",
+    "youtube": "https://youtube.com/@AnkrOfficial",
+    "whitepaper": "https://ankr.com/ankr-whitepaper-2.0.pdf",
+    "discord": "https://discord.com/invite/ankr",
+    "medium": "https://medium.com/ankr-network",
+    "coingecko": "https://coingecko.com/en/coins/ankr-network"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE/logo.png"
+  },
+  "name": "Ankr Network",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "ANKR",
+  "tags": [
+    "staking"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}
