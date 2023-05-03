@@ -1,0 +1,35 @@
+{
+  "active": true,
+  "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+  "color": null,
+  "decimals": 18,
+  "description": {
+    "en": "Pollen is a crypto asset management suite that brings together the core principles of DeFi with collective intelligence."
+  },
+  "id": "9403caa6-c1e4-4bbf-874a-c76f6d74d2c8",
+  "links": {
+    "explorer": "https://snowtrace.io/token/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+    "website": "https://pollen.id",
+    "twitter": "https://twitter.com/PollenDeFi",
+    "github": "https://github.com/PollenDeFi",
+    "telegram": "https://t.me/pollen_dao",
+    "medium": "https://medium.com/pollen-defi",
+    "whitepaper": "https://pollen.id/litepaper.pdf",
+    "coinmarketcap": "https://coinmarketcap.com/currencies/pollen/",
+    "coingecko": "https://coingecko.com/en/coins/pollen",
+    "discord": "https://discord.com/invite/KJzrVTU8RT"
+  },
+  "logo": {
+    "png": "https://raw.githubusercontent.com/map3xyz/avalanchec-tokenlist/master/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf/logo.png"
+  },
+  "name": "Pollen",
+  "networkCode": "avalanchec",
+  "spam": false,
+  "symbol": "PLN",
+  "tags": [
+    "defi"
+  ],
+  "type": "asset",
+  "verifications": [],
+  "version": "0.0.1"
+}

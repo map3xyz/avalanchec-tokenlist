@@ -1,6 +1,6 @@
 {
   "name": "@Map3/avalanchec-tokenlist",
-  "timestamp": "2023-01-05T14:59:22.425Z",
+  "timestamp": "2023-05-03T13:38:18.697Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -83,6 +83,15 @@
       ]
     },
     {
+      "address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+      "name": "Ankr Network",
+      "decimals": 18,
+      "symbol": "ANKR",
+      "tags": [
+        "staking"
+      ]
+    },
+    {
       "address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
       "name": "AlphaToken",
       "decimals": 18,
@@ -119,6 +128,17 @@
       "symbol": "CRV.e",
       "tags": [
         "defi"
+      ]
+    },
+    {
+      "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+      "name": "Staked AVAX",
+      "decimals": 18,
+      "symbol": "sAVAX",
+      "tags": [
+        "staking",
+        "defi",
+        "staking-native"
       ]
     },
     {
@@ -246,6 +266,15 @@
       ]
     },
     {
+      "address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "name": "GMX",
+      "decimals": 18,
+      "symbol": "GMX",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
       "address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
       "name": "Aave Token",
       "decimals": 18,
@@ -268,6 +297,15 @@
       "symbol": "LUNA",
       "tags": [
         "wrapped"
+      ]
+    },
+    {
+      "address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+      "name": "Pollen",
+      "decimals": 18,
+      "symbol": "PLN",
+      "tags": [
+        "defi"
       ]
     },
     {
@@ -304,6 +342,18 @@
       "symbol": "UNI.e",
       "tags": [
         "defi"
+      ]
+    },
+    {
+      "address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+      "name": "Dypius",
+      "decimals": 18,
+      "symbol": "DYP",
+      "tags": [
+        "governance",
+        "nft",
+        "defi",
+        "staking-native"
       ]
     },
     {
@@ -415,6 +465,17 @@
       ]
     },
     {
+      "address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+      "name": "iDeFiYieldProtocol",
+      "decimals": 18,
+      "symbol": "iDYP",
+      "tags": [
+        "governance",
+        "defi",
+        "staking-native"
+      ]
+    },
+    {
       "address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
       "name": "Synthetix Network Token",
       "decimals": 18,
@@ -522,6 +583,15 @@
       ]
     },
     {
+      "address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+      "name": "Ankr Staked AVAX",
+      "decimals": 18,
+      "symbol": "ankrAVAX",
+      "tags": [
+        "staking"
+      ]
+    },
+    {
       "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
       "name": "Tether USD",
       "decimals": 6,
@@ -545,6 +615,15 @@
       "decimals": 9,
       "symbol": "APE-X",
       "tags": []
+    },
+    {
+      "address": "0xd3Ac016b1B8C80EeAdDe4D186A9138C9324e4189",
+      "name": "Okcash",
+      "decimals": 18,
+      "symbol": "OK",
+      "tags": [
+        "defi"
+      ]
     },
     {
       "address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
